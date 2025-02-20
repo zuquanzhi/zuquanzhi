@@ -5,16 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+OpenCV+Developer" alt="Typing SVG" />
   </h1>
     </a>
-  <!-- 统计卡片组 -->
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuquanzhi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuquanzhi&layout=compact&theme=dark&hide_border=true" />
-  </div>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -39,21 +29,24 @@
 
 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
 
+  <!-- 统计卡片组 -->
+  <div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuquanzhi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuquanzhi&layout=compact&theme=dark&hide_border=true" />
+  </div>
+
+
 --- 
   <!-- 技能进度条 -->
   ### 🚀 Technical Proficiency  
   ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white)
-  
---- 
-### 🛠️ Technical Skills  
+
 - **Programming**: Python, Java, C/C++
 - **AI/ML**: PyTorch, OpenCV  ,YOLO
 - **Tools**: Git, Docker, Linux, VS Code, LaTeX  
 
-  <!-- 技术栈图标云 -->
-  ### 💻 Tech Stack
   <div align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,c,cpp,ros,linux,docker,aws,git,github" />
   </div>
