@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://zuweicun.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天上早八了吗;我要困死了！！！！&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天上早八了吗;&center=true&size=27" />
     </a>
   </div>
 
@@ -13,6 +13,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
+
+  
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -27,46 +29,62 @@
 
 </div>
 
-#  🙋 Hello
-
 <table>
   
 <tr><td>
 
-### 🤺 About Me
+### 🔍 About Me  
+🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.  
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. Eager to explore the intersection of technology and creativity.  
 
-<p>&emsp;&emsp;嗨，你好，我是全之。</p>
-<p>&emsp;&emsp;热爱编程、读书、早八睡觉。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系（狗头）。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.  
 
-</td></tr>
+💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.  
 
-<tr><td>
+🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
 
-<tr><td>
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
+--- 
+### 📈 GitHub
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" />
 </div>
 
+--- 
+### 🛠️ Technical Skills  
+- **Programming**: Python, Java, C/C++
+- **AI/ML**: PyTorch, OpenCV  ,YOLO
+- **Tools**: Git, Docker, Linux, VS Code, LaTeX  
 
-<div align="center" >
+---
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+### 📚 Projects  
+🔗 **[Summer]**:  挖个坑  
+🔗 **[QuadYOLO]**: YOLO魔改  
 
+---
 
+### 📫 Let’s Connect!  
+📧 Email: [zuquanzhi@qq.com]  
+🔗 LinkedIn: [http://zuweicun.top]    
+🐙 GitHub: [zuquanzhi]  
+
+<div align="center">
+  <a href="mailto:zuweicun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://zuweicun.top/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://www.robomaster.com/">
+    <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white" />
+  </a>
+</div>
+
+--- 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git,ros" /><br>
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -89,9 +107,12 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
+--- 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
+
+
+
