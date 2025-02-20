@@ -19,15 +19,15 @@
 <tr><td>
 
 ### 🔍 About Me  
-🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.  
+* 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.  
 
-🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. Eager to explore the intersection of technology and creativity.  
+* 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. Eager to explore the intersection of technology and creativity.  
 
-🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.  
+* 🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.  
 
-💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.  
+* 💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.  
 
-🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
+* 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
 
   <!-- 统计卡片组 -->
   <div align="center">
@@ -46,11 +46,6 @@
 - **Programming**: Python, Java, C/C++
 - **AI/ML**: PyTorch, OpenCV  ,YOLO
 - **Tools**: Git, Docker, Linux, VS Code, LaTeX  
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,c,cpp,ros,linux,docker,aws,git,github" />
-  </div>
-</div>
 
 ---
 
@@ -81,56 +76,57 @@
     </tr>
   </table>
 
+--- 
+### 💻 Tech Stack
+<div align="center">
+
+  <!-- 技术栈分类 -->
+  <h4>Languages & Frameworks</h4>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,react,nodejs,tensorflow,pytorch" alt="Languages & Frameworks" />
+  </div>
+
+  <h4>Tools & Platforms</h4>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode,idea" alt="Tools & Platforms" />
+  </div>
+
+  <h4>Design & Others</h4>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" alt="Design & Others" />
+  </div>
+</div>
+
 ---
 
 ### 📫 Let’s Connect!  
-📧 Email: [zuquanzhi@qq.com]  
-🔗 LinkedIn: [http://zuweicun.top]    
-🐙 GitHub: [zuquanzhi]  
-
 <div align="center">
-  <a href="mailto:zuweicun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://zuweicun.top/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-  <a href="https://www.robomaster.com/">
-    <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white" />
-  </a>
+
+  <!-- 联系方式卡片 -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- Email -->
+    <a href="mailto:zuquanzhi@qq.com">
+      <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151515" />
+    </a>
+    <!-- Blog -->
+    <a href="https://zuweicun.top/">
+      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=151515" />
+    </a>
+    <!-- RoboMaster -->
+    <a href="https://www.robomaster.com/">
+      <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white&labelColor=151515" />
+    </a>
+    <!-- GitHub -->
+    <a href="https://github.com/zuquanzhi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" />
+    </a>
+  </div>
+
+  <!-- 联系方式文字 -->
+  <div style="margin-top: 10px; font-size: 14px; color: #888;">
+    📧 Email: <a href="mailto:zuquanzhi@qq.com">zuquanzhi@qq.com</a>    
+    🔗 Blog: <a href="https://zuweicun.top/">zuweicun.top</a>    
+    🤖 RoboMaster: <a href="https://www.robomaster.com/">RoboMaster Profile</a>    
+    🐙 GitHub: <a href="https://github.com/zuquanzhi">zuquanzhi</a>  
+  </div>
 </div>
-
---- 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git,ros" /><br>
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
---- 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-
-
