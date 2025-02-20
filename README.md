@@ -1,20 +1,15 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://zuweicun.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天上早八了吗;&center=true&size=27" />
+  <!-- 动态渐变标题 -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+OpenCV+Developer" alt="Typing SVG" />
+  </h1>
     </a>
+  <!-- 统计卡片组 -->
+  <div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuquanzhi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuquanzhi&layout=compact&theme=dark&hide_border=true" />
   </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -45,23 +40,53 @@
 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
 
 --- 
-### 📈 GitHub
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" />
-</div>
-
+  <!-- 技能进度条 -->
+  ### 🚀 Technical Proficiency  
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white)
+  
 --- 
 ### 🛠️ Technical Skills  
 - **Programming**: Python, Java, C/C++
 - **AI/ML**: PyTorch, OpenCV  ,YOLO
 - **Tools**: Git, Docker, Linux, VS Code, LaTeX  
 
+  <!-- 技术栈图标云 -->
+  ### 💻 Tech Stack
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,c,cpp,ros,linux,docker,aws,git,github" />
+  </div>
+</div>
+
 ---
 
-### 📚 Projects  
-🔗 **[Summer]**:  挖个坑  
-🔗 **[QuadYOLO]**: YOLO魔改  
+  <!-- 项目展示卡片 -->
+  ### 🛠️ Featured Projects
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">QuadYOLO</h3>
+        <div align="center">  
+          <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/assets/quad-yolo-demo.gif" width="80%"/>
+          <p>Real-time multi-object detection optimized for robotics</p>
+          <a href="https://github.com/zuquanzhi/QuadYOLO">
+            <img src="https://img.shields.io/badge/CODE-3DA639?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">RoboMaster Vision</h3>
+        <div align="center">  
+          <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/assets/robomaster-demo.gif" width="80%"/>
+          <p>Embedded vision system for competition robots</p>
+          <a href="https://github.com/zuquanzhi/RoboMaster-Vision">
+            <img src="https://img.shields.io/badge/CODE-FF6F61?style=for-the-badge&logo=robot&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 
 ---
 
