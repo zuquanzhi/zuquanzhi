@@ -67,7 +67,7 @@
         <div align="center">  
           <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/assets/robomaster-demo.gif" width="80%"/>
           <p>Embedded vision system for competition robots</p>
-          <a href="[https://github.com/zuquanzhi/RoboMaster-Vision](https://github.com/zuquanzhi/nano_RMVision)">
+          <a href="https://github.com/zuquanzhi/nano_RMVision">
             <img src="https://img.shields.io/badge/CODE-FF6F61?style=for-the-badge&logo=robot&logoColor=white"/>
           </a>
         </div>
