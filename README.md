@@ -97,24 +97,25 @@
 ---
 
 ### 📫 Let’s Connect
+
 <p align="center">
   <a href="mailto:zuquanzhi@qq.com">
-    <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151515" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧%20Email-30B980?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111927&logoSize=auto&cacheSeconds=86400" alt="Email"/>
   </a>
   <a href="https://blog.zuquanzhi.top/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=151515" alt="Blog"/>
+    <img src="https://img.shields.io/badge/📝%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=111927&logoSize=auto&cacheSeconds=86400" alt="Blog"/>
   </a>
   <a href="https://www.robomaster.com/">
-    <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white&labelColor=151515" alt="RoboMaster"/>
+    <img src="https://img.shields.io/badge/🤖%20RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white&labelColor=111927&logoSize=auto&cacheSeconds=86400" alt="RoboMaster"/>
   </a>
   <a href="https://github.com/zuquanzhi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111927&logoSize=auto&cacheSeconds=86400" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center" style="font-size:14px;color:#888;">
-  📧 <a href="mailto:zuquanzhi@qq.com">zuquanzhi@qq.com</a><br/>
-  🔗 <a href="https://blog.zuquanzhi.top/">blog.zuquanzhi.top</a><br/>
-  🤖 <a href="https://www.robomaster.com/">RoboMaster Profile</a><br/>
-  🐙 <a href="https://github.com/zuquanzhi">GitHub</a>
+<p align="center">
+  <a href="mailto:zuquanzhi@qq.com">📧 zuquanzhi@qq.com</a><br/>
+  <a href="https://blog.zuquanzhi.top/">🔗 blog.zuquanzhi.top</a><br/>
+  <a href="https://www.robomaster.com/">🤖 RoboMaster Profile</a><br/>
+  <a href="https://github.com/zuquanzhi">🐙 GitHub</a>
 </p>
