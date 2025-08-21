@@ -2,7 +2,7 @@
 
   <!-- 动态渐变标题 -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+OpenCV+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+Robotics+Developer" alt="Typing SVG" />
   </h1>
     </a>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -21,7 +21,7 @@
 ### 🔍 About Me  
 * 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.  
 
-* 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**. Eager to explore the intersection of technology and creativity.  
+* 🧠 Passionate about **Artificial Intelligence**, **Robotics**, and **Software Development**. Eager to explore the intersection of technology and creativity.  
 
 * 🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.  
 
@@ -29,51 +29,49 @@
 
 * 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!  
 
-  <!-- 统计卡片组 -->
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuquanzhi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuquanzhi&layout=compact&theme=dark&hide_border=true" />
-  </div>
+<!-- 统计卡片组 -->
+<div align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=zuquanzhi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+       alt="zuquanzhi's GitHub Stats" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuquanzhi&layout=compact&theme=dark&hide_border=true"
+       alt="Top Languages" />
+</div>
 
 --- 
-  <!-- 技能进度条 -->
-  ### 🚀 Technical Proficiency  
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white)
 
-- **Programming**: Python, Java, C/C++
-- **AI/ML**: PyTorch, OpenCV  ,YOLO
-- **Tools**: Git, Docker, Linux, VS Code, LaTeX  
+<!-- 技能进度条 -->
+### 🚀 Technical Proficiency
+<!-- 技能进度条 -->
+### 🚀 Technical Proficiency
 
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?logo=rust&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-Beginner-76B900?logo=nvidia&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?logo=git&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?logo=linux&logoColor=black&style=flat-square)
+
+- **Programming**: C/C++, Python, Rust, Java, TypeScript  
+- **AI / ML**: PyTorch, TensorRT, OpenCV, YOLOv8, ONNX  
+- **Embedded / Robotics**: STM32, ROS2
+- **Tools**: Git, Docker, Linux, VS Code, CLion, LaTeX  
 ---
 
-  <!-- 项目展示卡片 -->
-  ### 🛠️ Featured Projects
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">QuadYOLO</h3>
-        <div align="center">  
-          <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/assets/quad-yolo-demo.gif" width="80%"/>
-          <p>Real-time multi-object detection optimized for robotics</p>
-          <a href="https://github.com/zuquanzhi/QuadYOLO">
-            <img src="https://img.shields.io/badge/CODE-3DA639?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">RoboMaster Vision</h3>
-        <div align="center">  
-          <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/assets/robomaster-demo.gif" width="80%"/>
-          <p>Embedded vision system for competition robots</p>
-          <a href="https://github.com/zuquanzhi/nano_RMVision">
-            <img src="https://img.shields.io/badge/CODE-FF6F61?style=for-the-badge&logo=robot&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<!-- 项目展示卡片 -->
+### 🛠️ Featured Projects
+
+| | |
+| :--- | :--- |
+| **QuadYOLO** | **RoboMaster Vision** |
+| ![QuadYOLO Demo](https://raw.githubusercontent.com/zuquanzhi/assets/main/quad-yolo-demo.gif) | ![RoboMaster Vision Demo](https://raw.githubusercontent.com/zuquanzhi/assets/main/robomaster-demo.gif) |
+| Real-time multi-object detection optimized for robotics | Embedded vision system for competition robots |
+| [![CODE](https://img.shields.io/badge/CODE-3DA639?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuquanzhi/QuadYOLO) | [![CODE](https://img.shields.io/badge/CODE-FF6F61?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/zuquanzhi/nano_RMVision) |
 
 --- 
 ### 💻 Tech Stack
@@ -98,34 +96,25 @@
 
 ---
 
-### 📫 Let’s Connect!  
-<div align="center">
+### 📫 Let’s Connect
+<p align="center">
+  <a href="mailto:zuquanzhi@qq.com">
+    <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151515" alt="Email"/>
+  </a>
+  <a href="https://blog.zuquanzhi.top/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=151515" alt="Blog"/>
+  </a>
+  <a href="https://www.robomaster.com/">
+    <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white&labelColor=151515" alt="RoboMaster"/>
+  </a>
+  <a href="https://github.com/zuquanzhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="GitHub"/>
+  </a>
+</p>
 
-  <!-- 联系方式卡片 -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- Email -->
-    <a href="mailto:zuquanzhi@qq.com">
-      <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151515" />
-    </a>
-    <!-- Blog -->
-    <a href="https://zuweicun.top/">
-      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=151515" />
-    </a>
-    <!-- RoboMaster -->
-    <a href="https://www.robomaster.com/">
-      <img src="https://img.shields.io/badge/RoboMaster-FF6F61?style=for-the-badge&logo=robot&logoColor=white&labelColor=151515" />
-    </a>
-    <!-- GitHub -->
-    <a href="https://github.com/zuquanzhi">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" />
-    </a>
-  </div>
-
-  <!-- 联系方式文字 -->
-  <div style="margin-top: 10px; font-size: 14px; color: #888;">
-    📧 Email: <a href="mailto:zuquanzhi@qq.com">zuquanzhi@qq.com</a>    
-    🔗 Blog: <a href="https://zuweicun.top/">zuweicun.top</a>    
-    🤖 RoboMaster: <a href="https://www.robomaster.com/">RoboMaster Profile</a>    
-    🐙 GitHub: <a href="https://github.com/zuquanzhi">zuquanzhi</a>  
-  </div>
-</div>
+<p align="center" style="font-size:14px;color:#888;">
+  📧 <a href="mailto:zuquanzhi@qq.com">zuquanzhi@qq.com</a><br/>
+  🔗 <a href="https://blog.zuquanzhi.top/">blog.zuquanzhi.top</a><br/>
+  🤖 <a href="https://www.robomaster.com/">RoboMaster Profile</a><br/>
+  🐙 <a href="https://github.com/zuquanzhi">GitHub</a>
+</p>
