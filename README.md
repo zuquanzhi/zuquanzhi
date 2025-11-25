@@ -32,9 +32,9 @@
 * 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuquanzhi&theme=dark" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/0-profile-details.svg" height="170" alt="Profile Details" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuquanzhi&theme=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/2-most-commit-language.svg" height="170" alt="Top Languages" />
 </div>
 
 
