@@ -1,22 +1,22 @@
-name: Generate Stats Images
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天 UTC 0点自动运行
-  workflow_dispatch: # 允许手动点按钮运行
+    - cron: "0 0 * * *" # 每天国际标准时间 0 点（北京时间早8点）自动更新
+  workflow_dispatch: # 允许你在 Actions 页面手动点击按钮触发
 
 jobs:
-  update-stats:
-    name: Update Stats
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # 必须有写入权限才能保存图片
+      
     steps:
       - uses: actions/checkout@v3
-      - uses: jstrieb/github-stats-action@v1
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 自动使用 GitHub 提供的 Token
         with:
-          user_id: zuquanzhi # 你的 GitHub ID
-          # 如果你想统计私有仓库，需要创建一个 PAT (Personal Access Token) 并填在 Settings -> Secrets 里，名为 GH_TOKEN
-          # token: ${{ secrets.GH_TOKEN }} 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update stats images"
-          file_pattern: "generated/*.svg"
+          USERNAME: ${{ github.repository_owner }} # 自动获取你的用户名
