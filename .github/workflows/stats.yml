@@ -1,0 +1,22 @@
+name: Generate Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 0点自动运行
+  workflow_dispatch: # 允许手动点按钮运行
+
+jobs:
+  update-stats:
+    name: Update Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jstrieb/github-stats-action@v1
+        with:
+          user_id: zuquanzhi # 你的 GitHub ID
+          # 如果你想统计私有仓库，需要创建一个 PAT (Personal Access Token) 并填在 Settings -> Secrets 里，名为 GH_TOKEN
+          # token: ${{ secrets.GH_TOKEN }} 
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update stats images"
+          file_pattern: "generated/*.svg"
