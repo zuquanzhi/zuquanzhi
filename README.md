@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- 动态渐变标题 -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+Robotics+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+Robotics+Developer" alt="Typing SVG" />
   </h1>
-    </a>
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -14,31 +12,40 @@
 
 </div>
 
-<table>
-  
-<tr><td>
+---
 
-### 🔍 About Me  
-* 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.  
+<h3 align="center">🔍 About Me</h3>
 
-* 🧠 Passionate about **Artificial Intelligence**, **Robotics**, and **Software Development**. Eager to explore the intersection of technology and creativity.
+- 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.
 
-* 🐹 Golang Backend Developer: Passionate about Cloud Native, Microservices, and Distributed Systems.
+- 🧠 Passionate about **Artificial Intelligence**, **Robotics**, and **Software Development**. Eager to explore the intersection of technology and creativity.
 
-* 🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.  
+- 🐹 **Golang Backend Developer**: Passionate about Cloud Native, Microservices, and Distributed Systems.
 
-* 💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.  
+- 🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.
 
-* 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!
+- 💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.
+
+- 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!
+
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/0-profile-details.svg" height="170" alt="Profile Details" />
+  <h3 align="center">📊 GitHub Statistics</h3>
   
-  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/2-most-commit-language.svg" height="170" alt="Top Languages" />
+  <a href="https://github.com/zuquanzhi">
+    <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="165" alt="Overview" />
+    <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="165" alt="Languages" />
+  </a>
+  
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
 </div>
 
+---
 
-### 🚀 Technical Proficiency
+<h3 align="center">🚀 Technical Proficiency</h3>
 
 <div align="center">
 
@@ -72,7 +79,9 @@
 - **AI / Robotics**: PyTorch, TensorRT, OpenCV, YOLOv8, ROS2
 - **Tools**: Docker, Git, Linux, VS Code, CLion, CMake
 
-### 🛠️ Featured Projects
+---
+
+<h3 align="center">🛠️ Featured Projects</h3>
 
 #### 🐹 [Gomentum](https://github.com/zuquanzhi/Gomentum)
 > **LLM Planning Agent** | CLI-based intelligent task decomposer powered by **Google adk-go** & **MCP**.
@@ -91,8 +100,10 @@
 > <br/>
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+---
 
-### 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
+
 <div align="center">
 
   <h4>Languages & Frameworks</h4>
@@ -110,9 +121,9 @@
 
 </div>
 
+---
 
-
-### 📫 Let’s Connect
+<h3 align="center">📫 Let’s Connect</h3>
 
 <div align="center">
   <a href="mailto:zuquanzhi@qq.com">
