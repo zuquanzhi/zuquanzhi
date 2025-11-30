@@ -5,9 +5,17 @@
   </h1>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/assets/images/coding.gif" />
+  </picture>
+
+  <div>&nbsp;</div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -119,6 +127,14 @@
     <img src="https://skillicons.dev/icons?i=cmake,vscode,clion" alt="Dev Tools" />
   </div>
 
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-3d-contrib/profile-season.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+
 </div>
 
 ---
@@ -138,4 +154,39 @@
   <a href="https://space.bilibili.com/400543177">
     <img src="https://img.shields.io/badge/Bilibili-Space-FB7299?style=flat-square&logo=bilibili&logoColor=white"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+</table>
+
+<img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/assets/images/icon.png" />
 </div>
