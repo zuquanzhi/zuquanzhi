@@ -1,1 +1,22 @@
+name: GitHub-Profile-Summary-Cards
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天国际标准时间 0 点（北京时间早8点）自动更新
+  workflow_dispatch: # 允许你在 Actions 页面手动点击按钮触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # 必须有写入权限才能保存图片
+      
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # 自动使用 GitHub 提供的 Token
+        with:
+          USERNAME: ${{ github.repository_owner }} # 自动获取你的用户名
