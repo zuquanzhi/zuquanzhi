@@ -15,7 +15,7 @@ jobs:
         with:
           # 请确保 WAKATIME_API_KEY 和 GH_TOKEN 都在仓库的 Secrets 中配置正确
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
           # 配置项
           SHOW_LINES_OF_CODE: "False"
