@@ -91,12 +91,12 @@
 
 <h3 align="center">🛠️ Featured Projects</h3>
 
-#### 🐹 [Gomentum](https://github.com/zuquanzhi/Gomentum)
-> **LLM Planning Agent** | CLI-based intelligent task decomposer powered by **Google adk-go** & **MCP**.
+#### ✈️ [gomcp-pilot](https://github.com/zuquanzhi/gomcp-pilot)
+> **High-performance MCP Gateway** | Featuring **TUI Monitor**, **Human-in-the-loop** safety, and **Polyglot** tool integration.
 > <br/>
-> *Transforms high-level goals into actionable plans using reasoning engines and local tools.*
+> *An intelligent co-pilot for AI Agents, providing unified protocol conversion, real-time traffic interception, and a modern Web Dashboard.*
 > <br/>
-> ![Go](https://img.shields.io/badge/Go-Expert-00ADD8?style=flat-square&logo=go&logoColor=white) ![MCP](https://img.shields.io/badge/Protocol-MCP-2496ED?style=flat-square&logo=box&logoColor=white)
+> ![Go](https://img.shields.io/badge/Go-Expert-00ADD8?style=flat-square&logo=go&logoColor=white) ![MCP](https://img.shields.io/badge/Protocol-MCP-2496ED?style=flat-square&logo=box&logoColor=white) ![SSE](https://img.shields.io/badge/Support-SSE-FF9900?style=flat-square&logo=rss&logoColor=white) ![DeepWiki](https://img.shields.io/badge/Docs-DeepWiki-FF69B4?style=flat-square&logo=bookstack&logoColor=white)
 
 #### 🛸 [QuadYOLO](https://github.com/zuquanzhi/QuadYOLO)
 > **AI Vision** | Real-time multi-object detection optimized for robotics (YOLOv8 + TensorRT).
