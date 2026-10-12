@@ -84,17 +84,17 @@ I believe technology is a means, not an end — what fascinates me is the proces
   <br/>
   <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/isocalendar.fullyear.svg" alt="isometric calendar" />
   <br/>
-  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/achievements.compact.svg" alt="achievements" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/stargazers.chartist.svg" alt="stargazers" />
 </div>
 
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/languages.indepth.svg" alt="languages in-depth" /></td>
-    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/habits.charts.svg" alt="coding habits" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/stars.svg" alt="recently starred" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/stars.svg" alt="recently starred" /></td>
-    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/activity.svg" alt="recent activity" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/followup.indepth.svg" alt="issue & PR follow-up" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
 </table>
 

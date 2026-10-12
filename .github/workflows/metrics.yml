@@ -87,20 +87,8 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 10
-          
-      # 💡 Coding habits and activity
-      - name: Recent activity charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Europe/Paris
-          
-      # 🎟️ Follow-up of issues and pull requests 
+
+      # 🎟️ Follow-up of issues and pull requests
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -163,32 +151,6 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
-      # 🏆 Achievements
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
-      # 📰 Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-   
       # ⏰ WakaTime
       - name: WakaTime
         uses: lowlighter/metrics@latest
