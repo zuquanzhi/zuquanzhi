@@ -16,20 +16,17 @@ I believe technology is a means, not an end — what fascinates me is the proces
 
 <p>
   <img src="https://cdn.simpleicons.org/wechat/07C160" height="18" align="absmiddle" alt="WeChat" />&nbsp;
-  <b>Tencent WXG · Video Accounts Recommendation Engineering</b> — Backend R&D Intern · <i>2026.06 – Present</i>
+  <b>Tencent WXG</b> — Backend R&D Intern · <i>2026.06 – Present</i>
 </p>
 
-> Building the recommendation backend for **WeChat Video Accounts (视频号)** and **Xiaowei (小微)**, WeChat's AI assistant — covering online serving, user profiling, offline feature production, and recall & candidate supply.
->
-> - Independently owned the **image-text recommendation pipeline** from design to full rollout: a 41-node DAG orchestrated on the internal Metis graph framework, fusing 4 behavior-signal recall channels into the funnel TopK — lifting content exposure **VV +20.23%**, like rate **+33%**, follow rate **+17%**, watch time **+25.66%**
-> - Designed the user-profile & offline **Feature Infra** for Xiaowei's proactive recommendation: unified abstraction of feature definition / production source / query source, KV-first reads with RPC fallback on miss, and offline pre-computation of hot recalls
+> Working on recommendation systems backend for large-scale content and AI-assistant scenarios — online serving, user profiling, and offline feature production. Owned a recommendation pipeline end-to-end, from design to full rollout.
 
 <p>
   <img src="https://cdn.simpleicons.org/baidu/2319DC" height="18" align="absmiddle" alt="Baidu" />&nbsp;
-  <b>Baidu · International Ads Recommendation Platform</b> — Backend R&D Intern · <i>2026.01 – 2026.05</i>
+  <b>Baidu</b> — Backend R&D Intern · <i>2026.01 – 2026.05</i>
 </p>
 
-> Worked on the entry service of the international ads bidding system — **OpenRTB** request parsing and assembly, ADX custom field extensions, and the ad recall & filtering pipeline. Built recall/filter logging and dynamic configuration links, integrating GCS-based dictionary hot-reload with gray rollout and anomaly attribution.
+> Worked on the bidding entry service of the international ads platform — request protocol handling, recall/filter logging, and dynamic configuration infrastructure.
 
 ---
 
@@ -58,7 +55,7 @@ I believe technology is a means, not an end — what fascinates me is the proces
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,go,py,rust,java" height="40" alt="languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=redis,mysql,postgres,clickhouse,kafka" height="40" alt="storage & messaging" />
+  <img src="https://skillicons.dev/icons?i=redis,mysql,postgres,kafka" height="40" alt="storage & messaging" />
   <br/>
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,prometheus,git" height="40" alt="engineering" />
 </div>
@@ -67,7 +64,7 @@ I believe technology is a means, not an end — what fascinates me is the proces
 
 - **Languages**: C++ backend services (design, gray rollout, online troubleshooting), Golang, Python
 - **Recommendation Systems**: multi-channel recall, feature generation & fetching, ranking, fusion, candidate quota, AB experiments
-- **AI Infra**: user profiling & Feature Infra for proactive recommendation, offline pre-computation, KV materialization; Prompt Engineering, ReAct / Plan-and-Execute agent paradigms
+- **AI Infra**: user profiling & feature infrastructure, offline pre-computation, KV materialization; Prompt Engineering, ReAct / Plan-and-Execute agent paradigms
 - **Storage & Messaging**: KV layout, TTL, cache-miss fallback; Redis, MySQL, ClickHouse, message queues
 - **Engineering & Stability**: Linux, Docker, K8s, Prometheus; timeout isolation, fail-open, graceful degradation, gray release
 
@@ -77,32 +74,32 @@ I believe technology is a means, not an end — what fascinates me is the proces
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
   <br/>
   <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="165" alt="overview" />
   <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="165" alt="languages" />
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/isocalendar.fullyear.svg" alt="isometric calendar" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/isocalendar.fullyear.svg" alt="isometric calendar" />
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/achievements.compact.svg" alt="achievements" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/achievements.compact.svg" alt="achievements" />
 </div>
 
 <table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/languages.indepth.svg" alt="languages in-depth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/habits.charts.svg" alt="coding habits" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/languages.indepth.svg" alt="languages in-depth" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/habits.charts.svg" alt="coding habits" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stars.svg" alt="recently starred" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/activity.svg" alt="recent activity" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/stars.svg" alt="recently starred" /></td>
+    <td><img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/activity.svg" alt="recent activity" /></td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/people.followers.svg" alt="followers" />
+  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/people.followers.svg" alt="followers" />
 </div>
 
 ---
