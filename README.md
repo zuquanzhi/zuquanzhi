@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zuquanzhi;RoboMaster+Vision+Engineer;AI+%26+Robotics+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zuquanzhi;Backend+Developer;RoboMaster+Vision+Engineer;AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
   </h1>
 
   <picture>
@@ -24,28 +24,30 @@
 
 <h3 align="center">🔍 About Me</h3>
 
-- 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT)**.
+- 🎓 **Undergraduate Student** in **Computer Science** at **Harbin Institute of Technology (HIT, Weihai)**.
 
-- 🧠 Passionate about **Artificial Intelligence**, **Robotics**, and **Software Development**. Eager to explore the intersection of technology and creativity.
+- 💼 **Backend R&D Intern @ Baidu** — got a firsthand look at how large-scale industrial systems really run. **Incoming @ Tencent WXG (WeChat Group)**.
+
+- 🏆 **RoboMaster National First Prize** (Vision Group) & **National Intelligent Car Racing Competition National Second Prize** — turning dry algorithms into real robot motion.
 
 - 🐹 **Golang Backend Developer**: Passionate about Cloud Native, Microservices, and Distributed Systems.
 
 - 🤖 **RoboMaster Vision Team Member**: Specializing in computer vision and real-time object detection for robotics competitions. Experienced in optimizing algorithms for embedded systems and collaborating with multidisciplinary teams.
 
-- 💡 Currently diving into **deep learning**, **algorithm design**, and **full-stack development**, with a keen interest in building intelligent systems and scalable applications.
+- 💡 I believe technology is a means to solve problems, not an end in itself — always learning by building.
 
-- 🤝 Open to **collaborations**, **internships**, and **projects** that challenge me to grow and innovate. Let’s connect and create something impactful!
+- 🤝 Open to **collaborations** and **projects** that challenge me to grow and innovate. Let's connect and create something impactful!
 
 <br/>
 
 <div align="center">
   <h3 align="center">📊 GitHub Statistics</h3>
-  
+
   <a href="https://github.com/zuquanzhi">
     <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="165" alt="Overview" />
     <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="165" alt="Languages" />
   </a>
-  
+
   <br/>
 
   <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
@@ -83,7 +85,7 @@
 </div>
 
 - **Languages**: Golang, C/C++, Python, Rust, Java
-- **Backend**: Gin, gRPC, Microservices, Redis, Postgresql
+- **Backend**: Gin, gRPC, Microservices, Redis, PostgreSQL
 - **AI / Robotics**: PyTorch, TensorRT, OpenCV, YOLOv8, ROS2
 - **Tools**: Docker, Git, Linux, VS Code, CLion, CMake
 
@@ -139,7 +141,14 @@
 
 ---
 
-<h3 align="center">📫 Let’s Connect</h3>
+<h3 align="center">⏱️ Coding Time</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<h3 align="center">📫 Let's Connect</h3>
 
 <div align="center">
   <a href="mailto:zuquanzhi@qq.com">
@@ -159,34 +168,11 @@
 <br/>
 
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/isocalendar.fullyear.svg" alt="isocalendar" />
+
+<img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/github-metrics/base.svg" alt="metrics" />
 
 <img src="https://cdn.jsdelivr.net/gh/zuquanzhi/zuquanzhi/assets/images/icon.png" />
+
 </div>
