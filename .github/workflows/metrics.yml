@@ -68,16 +68,6 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
-      # ✨ Stargazers
-      - name: Stargazers graph
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stargazers.chartist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
-
       # 🌟 Recently starred repositories
       - name: Recently starred
         uses: lowlighter/metrics@latest

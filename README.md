@@ -83,8 +83,6 @@ I believe technology is a means, not an end — what fascinates me is the proces
   <img src="https://raw.githubusercontent.com/zuquanzhi/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="165" alt="languages" />
   <br/>
   <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/isocalendar.fullyear.svg" alt="isometric calendar" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/zuquanzhi/zuquanzhi/main/github-metrics/stargazers.chartist.svg" alt="stargazers" />
 </div>
 
 <table align="center">
