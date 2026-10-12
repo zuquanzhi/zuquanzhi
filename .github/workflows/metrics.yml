@@ -68,15 +68,15 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
-      # ✨ Stargazers   
-      - name: Using chartist charts
+      # ✨ Stargazers
+      - name: Stargazers graph
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stargazers.chartist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
+          plugin_stargazers_charts_type: graph
 
       # 🌟 Recently starred repositories
       - name: Recently starred
@@ -189,18 +189,6 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
    
-      # 🗨️ Stack Overflow
-      - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stackoverflow.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
-
       # ⏰ WakaTime
       - name: WakaTime
         uses: lowlighter/metrics@latest
