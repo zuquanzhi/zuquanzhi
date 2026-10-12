@@ -3,34 +3,44 @@
   <br/>
   <b>Backend Developer · Robotics & AI Enthusiast</b>
   <br/>
-  CS Undergraduate @ Harbin Institute of Technology (Weihai)
+  CS Undergraduate @ Harbin Institute of Technology
 </div>
+
+<br/>
+
+I believe technology is a means, not an end — what fascinates me is the process of diving deep into a concrete problem, and the people you meet along the way. Most of my university years were spent in labs: turning dry algorithms into robot motion, then stepping out of the ivory tower to see how industrial-scale systems actually run. I write about all of this (in Chinese) at [blog.zuquanzhi.top](https://blog.zuquanzhi.top).
 
 ---
 
 ### 🧭 Experience
 
-**Tencent WXG (WeChat Group)** — Backend Developer, *incoming*
-> Received offer and will join the WeChat backend team, working on large-scale distributed systems behind one of the world's largest messaging platforms.
+<p>
+  <img src="https://cdn.simpleicons.org/wechat/07C160" height="18" align="absmiddle" alt="WeChat" />&nbsp;
+  <b>Tencent WXG (WeChat Group)</b> — Backend Developer · <i>Incoming</i>
+</p>
 
-**Baidu** — Backend R&D Intern, *2026.02 – 2026.05*
-> Worked on production backend services; first deep dive into how an industrial-grade system actually operates — from code review and CI/CD to on-call and incident response.
+> Received offer and will join the WeChat backend team — building and maintaining large-scale distributed systems behind one of the world's largest messaging platforms.
 
-**RoboMaster University Championship** — Vision Group, *National First Prize 🥇*
-> Built the real-time auto-aim pipeline for competition robots: object detection, Kalman-filter-based trajectory prediction, and inference optimization on embedded platforms.
+<p>
+  <img src="https://cdn.simpleicons.org/baidu/2319DC" height="18" align="absmiddle" alt="Baidu" />&nbsp;
+  <b>Baidu</b> — Backend R&D Intern · <i>2026.02 – 2026.05</i>
+</p>
 
-**National Intelligent Car Racing Competition** — *National Second Prize 🥈*
-> Spent half a year in the lab tuning the car with the team — from control algorithms to sensor fusion on the edge.
+> Worked on production backend services. First deep dive into how an industrial-grade system actually operates — code review, CI/CD, monitoring, and the discipline of writing software that other people depend on.
 
----
+<p>
+  <img src="https://cdn.simpleicons.org/dji/8A8F98" height="18" align="absmiddle" alt="RoboMaster" />&nbsp;
+  <b>RoboMaster University Championship</b> — Vision Group · <i>National First Prize 🥇</i>
+</p>
 
-### 🛠️ Selected Work
+> Owned the real-time auto-aim pipeline for competition robots: object detection, Kalman-filter-based trajectory prediction, and inference optimization on embedded platforms. Days filled with code and parameter tuning; nights filled with matches.
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Gomentum**](https://github.com/zuquanzhi/Gomentum) | LLM planning agent CLI — decomposes high-level goals into executable plans with reasoning engines and local tools | Go · adk-go · MCP |
-| [**QuadYOLO**](https://github.com/zuquanzhi/QuadYOLO) | Real-time multi-object detection optimized for robotics | Python · YOLOv8 · TensorRT |
-| [**nano_RMVision**](https://github.com/zuquanzhi/nano_RMVision) | RoboMaster auto-aim system on embedded platforms with Kalman-filter prediction | C++ · OpenCV |
+<p>
+  <img src="https://cdn.simpleicons.org/nxp/F7B500" height="18" align="absmiddle" alt="NXP Cup" />&nbsp;
+  <b>National Intelligent Car Racing Competition</b> — <i>National Second Prize 🥈</i>
+</p>
+
+> Spent half a year in the lab tuning the car with my teammates — control algorithms, sensor fusion, and everything in between. My first taste of turning theory into a machine that moves.
 
 ---
 
@@ -39,10 +49,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,cpp,py,rust,java" height="40" alt="languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=gin,redis,postgres,mysql,docker,kubernetes,linux" height="40" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,docker,kubernetes,linux" height="40" alt="backend" />
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,ros" height="40" alt="ai & robotics" />
 </div>
+
+<br/>
+
+- **Backend**: Golang, Gin, gRPC, Microservices, Redis, PostgreSQL
+- **AI / Robotics**: PyTorch, TensorRT, OpenCV, YOLO, ROS2
+- **Interests**: Distributed systems, developer tools, and the intersection of LLMs and traditional engineering
 
 ---
 
