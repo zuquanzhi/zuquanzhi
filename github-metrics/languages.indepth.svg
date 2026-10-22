@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 69.3mb of code in 1618 edited files across 95 commits</small>
+                <small>estimation from 196mb of code in 27872 edited files across 210 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.02810849068527" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="153.02810849068527" y="0" width="150.2441672354086" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="303.2722757260939" y="0" width="94.48016986426025" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="397.75244559035417" y="0" width="62.247554409645865" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.2162654716774" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="234.2162654716774" y="0" width="110.6958171070712" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="344.9120825787486" y="0" width="98.07084592348394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="442.98292850223254" y="0" width="17.017071497767454" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 C++
                             </div>
                             <small>
-                                <div>15.4k lines</div>
-                                <div>526 kB</div>
+                                <div>102k lines</div>
+                                <div>5.56 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Python
                             </div>
                             <small>
-                                <div>10.6k lines</div>
-                                <div>325 kB</div>
+                                <div>57.6k lines</div>
+                                <div>2.33 MB</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 C
                             </div>
                             <small>
-                                <div>10.1k lines</div>
-                                <div>516 kB</div>
+                                <div>59.1k lines</div>
+                                <div>2.63 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSX
+                                Go
                             </div>
                             <small>
-                                <div>7.73k lines</div>
-                                <div>214 kB</div>
+                                <div>13.2k lines</div>
+                                <div>403 kB</div>
                             </small>
                         </div>
                     </section>
