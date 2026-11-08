@@ -7,16 +7,27 @@ on:
   push:
     paths:
       - .github/workflows/waka.yml
+      - .github/scripts/update_waka.py
 
 permissions:
   contents: write
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      # WAKATIME_API_KEY must contain a WakaTime OAuth token, not a plugin API key.
-      - uses: athul/waka-readme@8991b596d85696d98ea96f775390a1bbe266c8c9
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Update statistics
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+        run: python .github/scripts/update_waka.py
+      - name: Commit updated README
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update WakaTime statistics"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
