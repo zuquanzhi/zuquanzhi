@@ -112,67 +112,7 @@ I believe technology is a means, not an end — what fascinates me is the proces
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2034%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime                210 commits         ██████████░░░░░░░░░░░░░░░   38.96 % 
-🌃 Evening                207 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌙 Night                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+No coding activity recorded in the last 7 days.
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Tuesday                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Sunday                   168 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-SSH Config               4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 50,609 Input Tokens, 8,909 Output Tokens
-
-💵 $9.92 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 2 AI Prompts
-
-Kimi                     178 lines           █████████████████████████   100.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/11/2026 05:19:12 UTC
 <!--END_SECTION:waka-->
