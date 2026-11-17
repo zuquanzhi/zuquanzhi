@@ -113,7 +113,6 @@ I believe technology is a means, not an end — what fascinates me is the proces
 
 <!--START_SECTION:waka-->
 ```text
-CSV                  8 mins               ██████████████████░░░░░░░  72.8%
-YAML                 3 mins               ███████░░░░░░░░░░░░░░░░░░  27.2%
+CSV                  8 mins               █████████████████████████ 100.0%
 ```
 <!--END_SECTION:waka-->
